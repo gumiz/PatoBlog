@@ -1,7 +1,7 @@
 {
     "title": "Grayscale",
-    "name": "startbootstrap-grayscale",
-    "version": "5.0.9",
+    "name": "PatoBlog",
+    "version": "1.0.0",
     "scripts": {
         "start": "node_modules/.bin/gulp watch"
     },
