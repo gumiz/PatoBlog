@@ -4,6 +4,6 @@
 
 Private blogging shit
 
-test1
-test2
-test3
+FIRST
+SECOND
+THIRD
